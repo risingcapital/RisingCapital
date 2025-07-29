@@ -27,7 +27,7 @@ const Navbar = () => {
                         className="w-10 h-10 rounded-full overflow-hidden shadow-md bg-gradient-to-br from-cyan-400 to-blue-600"
                     >
                         <img
-                            src="/assets/logo.jpg"
+                            src="./assets/logo.jpg"
                             alt="Rising Capital Logo"
                             className="w-full h-full object-cover"
                         />

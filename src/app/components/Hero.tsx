@@ -31,7 +31,7 @@ const Hero = () => {
                 className="absolute inset-0 w-full h-full object-cover z-0"
                 style={{ opacity: videoOpacity, scale: videoScale }}
             >
-                <source src="/assets/hero-bg.mp4" type="video/mp4" />
+                <source src="./assets/hero-bg.mp4" type="video/mp4" />
             </motion.video>
             {/* Overlay for contrast */}
             <motion.div

@@ -76,7 +76,7 @@ const Footer = () => {
                         <div className="flex items-center space-x-3 mb-6">
                             <div className="w-10 h-10 rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 flex items-center justify-center">
                                 <img
-                                    src="/assets/logo.jpg"
+                                    src="./assets/logo.jpg"
                                     alt="Rising Capital Logo"
                                     className="w-full h-full object-cover rounded"
                                 />
